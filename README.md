@@ -1,4 +1,3 @@
-<a href="javascript: alert('hello');">click me </a>
 # rantly-clojure
 
 
